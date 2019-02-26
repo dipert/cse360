@@ -1,4 +1,8 @@
 package cse360assign2;
+//Joshua Dipert
+// ClassID: 361
+//Assignment 2
+//This class makes a object of type Calculator and allows a user to do operations on integers and store the operations and print them as a string
 
 public class Calculator {
 
